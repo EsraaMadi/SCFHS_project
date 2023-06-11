@@ -1,8 +1,8 @@
 
 
-## Data Scientist - Saudi Commission for Health Specialities
+## Data Role - Saudi Commission for Health Specialities
 
-Thank you for your interest in our Data Scientist positions. Before we have a chat about SCFHS's fit to your career path, let's have a look at what you can do in **72 hours** as a Data Scientist.
+Thank you for your interest in our Data role position. After we have a chat about SCFHS's fit to your career path, let's have a look at what you can do in **72 hours** as a Data Scientist.
 
 ### Question
 
